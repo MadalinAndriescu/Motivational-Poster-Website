@@ -1,0 +1,31 @@
+html{
+    background-color: black;
+}
+
+#h1{
+    color: white;
+    background-color: black;
+    text-align: center;
+    text-transform: uppercase;
+    font-family:"Libre Baskerville", serif;
+}
+
+#p{
+    text-align: center;
+    color: white;
+}
+
+#daemon{
+    border: solid white;
+    border-width: 5px;
+    height: 500px;
+    width: 100%;
+}
+
+.poster{
+    margin-top: 10%;
+    margin-left: 25%;
+    width: 50%;
+    align-items:center ;
+}
+
